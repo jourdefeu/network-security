@@ -1,4 +1,4 @@
-# Network Security Attack Classification with Machine Learning 🌐
+# Network Security with Machine Learning 🌐
 
 <!--
 ## Overwiew
