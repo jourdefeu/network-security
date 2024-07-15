@@ -1,11 +1,12 @@
 # Network Security with Machine Learning 🌐
 
-<!--
 ## Overwiew
 
-In this Data Science project, you will see how to build a Book Recommendation System model using Machine Learning Techniques.
+In this Data Science project, you will see how to build a Network Attack Classifier from scratch using Machine Learning Techniques.
 
-Recommendation systems are among the most popular applications of data science. They are used to predict the Rating or Preference that a user would give to an item.
+Network security is the general practice of protecting computer networks and devices accessible to the network against malicious intent, misuse and denial. 
+
+<!--
 
 ## Project structure
 The datasets used in this project are:
