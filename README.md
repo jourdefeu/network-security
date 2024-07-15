@@ -4,19 +4,19 @@
 
 In this Data Science project, you will see how to build a Network Attack Classifier from scratch using Machine Learning Techniques.
 
-Network security is the general practice of protecting computer networks and devices accessible to the network against malicious intent, misuse and denial. 
-
-<!--
+Network Security is the general practice of protecting computer networks and devices accessible to the network against malicious intent, misuse and denial. 
 
 ## Project structure
 The datasets used in this project are:
-- `BX-Book-Ratings.csv`
-- `BX-Books.csv`
-- `BX-Users.csv`
+- `KDDTrain+.txt`
+- `KDDTest+.txt`
 
 Jupyter Notebook containing the code for data preprocessing and visualization:
 
-- `code.ipynb`
+- `learn.ipynb`
+<!--
+
+
 
 ## Steps
 
