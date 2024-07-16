@@ -15,7 +15,12 @@ Jupyter Notebook containing the code for data preprocessing and visualization:
 
 - `learn.ipynb`
 
+## Results
 
+The system analyzes network security and classifies network attacks based on the exploring of inherent patterns in network traffic data.
+____________________________________________________________________
+
+_in progress..._
 
 <!--
 
