@@ -1,6 +1,6 @@
 # Network Security with Machine Learning 🌐
 
-## Overwiew
+## Overview
 
 In this Data Science project, you will see how to build a Network Attack Classifier from scratch using Machine Learning Techniques.
 
